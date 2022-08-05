@@ -5,8 +5,8 @@ IT Leader, Cyber Expert and Web Dev in Training 🚀
 --------------------------------------------------
 
 * 🌍  I'm based in Canada 🇨🇦
-* 🖥️  See my portfolio at [My Website](http://kylemccracken.io)
-* 🚀  I'm currently working on [KyTech Hosting Platform](http://hosting.kytech.ca)
+* 🖥️  See my portfolio at - Coming Soon! 
+* 🚀  I'm currently working on [Layer6 Training - A Online Course Platform for Tech](http://layer6training.com)
 * 🧠  I'm learning Nuxt-3/Vue, React & Angular
 
 ### Skills
